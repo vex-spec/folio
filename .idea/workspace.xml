@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="463a606e-64c4-408f-af46-548c93882d89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MYfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/person/person-f-12.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/person/person-f-5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/person/person-m-12.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/person/person-m-2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/person/person-m-3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/person/person-m-5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/person/person-m-8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/person/person-m-9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/portfolio/portfolio-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/portfolio/portfolio-11.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/portfolio/portfolio-12.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/portfolio/portfolio-2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/portfolio/portfolio-3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/portfolio/portfolio-4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/portfolio/portfolio-5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/portfolio/portfolio-6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/portfolio/portfolio-7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/portfolio/portfolio-8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/profile/profile-square-11.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/img/services/services-7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/scss/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/aos/aos.cjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/aos/aos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/aos/aos.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/aos/aos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/aos/aos.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap-icons/bootstrap-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap-icons/bootstrap-icons.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap-icons/bootstrap-icons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap-icons/bootstrap-icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/glightbox/css/glightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/glightbox/css/glightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/glightbox/js/glightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/glightbox/js/glightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/isotope-layout/isotope.pkgd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/isotope-layout/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/php-email-form/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/purecounter/purecounter_vanilla.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/purecounter/purecounter_vanilla.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/swiper/swiper-bundle.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/swiper/swiper-bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/swiper/swiper-bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/typed.js/typed.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/typed.js/typed.cjs.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/typed.js/typed.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/typed.js/typed.module.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/typed.js/typed.umd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/typed.js/typed.umd.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/static/assets/vendor/waypoints/noframework.waypoints.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/templates/portfolio-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/templates/portfolio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/templates/resume.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/templates/service-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/templates/service.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/templates/starter-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYfolio/folioapp/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3AWORwIOdQQy8iqkVxi95mo5fE3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/PycharmProjects/MYfolio/MYfolio/folioapp/static&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\MYfolio\MYfolio\folioapp\static" />
+      <recent name="C:\Users\Admin\PycharmProjects\MYfolio\MYfolio\folioapp\templates" />
+      <recent name="C:\Users\Admin\PycharmProjects\MYfolio\MYfolio\folioapp" />
+      <recent name="C:\Users\Admin\PycharmProjects\MYfolio\MYfolio\folioapp\migrations" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="463a606e-64c4-408f-af46-548c93882d89" name="Changes" comment="" />
+      <created>1772704856289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772704856289</updated>
+      <workItem from="1772704857463" duration="15651000" />
+      <workItem from="1775241217195" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
