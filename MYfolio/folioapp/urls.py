@@ -16,21 +16,29 @@ Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
-#folioapp/urls.py
-from django.contrib import admin
 from django.urls import path
-
 from . import views
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-path('about/', views.about, name='about'),
-    path('starter/', views.starter, name='starter'),
-    path('contact/', views.contact, name='contact'),
-    path('service/', views.servicespage, name='service'),
-    path('index/', views.index, name='index'),
     path('', views.portfolio, name='portfolio'),
-    path('portfoliodetails/', views.portfoliopage, name='portfoliodetails'),
-    path('resume/', views.resume, name='resume.'),
-    path('servicedetails/', views.servicespage, name='servicedetails'),
-    ]
+    path('index/', views.index, name='index'),
+    path('about/', views.about, name='about'),
+    path('resume/', views.resume, name='resume'),
+    path('service/', views.service, name='service'),
+    path('services/', views.service, name='services'),
+    path('servicedetails/', views.service_details, name='service_details'),
+    path('portfolio-details/', views.portfolio_details, name='portfolio_details'),
+    path('portfoliodetails/', views.portfolio_details, name='portfoliodetails'),
+    path('contact/', views.contact, name='contact'),
+    path('starter/', views.starter, name='starter'),
+
+    path('index.html', views.index),
+    path('about.html', views.about),
+    path('resume.html', views.resume),
+    path('service.html', views.service),
+    path('portfolio.html', views.portfolio),
+    path('portfolio-details.html', views.portfolio_details),
+    path('service-details.html', views.service_details),
+    path('contact.html', views.contact),
+    path('starter-page.html', views.starter),
+]
